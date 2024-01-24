@@ -4,7 +4,7 @@
 
 ## CALLBACK HELL TASK
 
-- Dispaly countdown from 10 to 1 on the screen and display _ Happy Independance Day_ on screen.
+- Dispaly countdown from 10 to 1 on the screen and display _Happy Independance Day_ on screen.
 - With constrains
   - Do not use named and IIFE functions
   - Do not use recursive function
