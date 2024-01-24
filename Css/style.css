@@ -43,3 +43,20 @@ h1 {
   filter: drop-shadow(4px 4px 20px rgb(8, 8, 8));
   border-radius: 2rem;
 }
+#reTry {
+  position: absolute;
+  top: 1rem;
+  left: 2rem;
+}
+button {
+  background-color: rgb(241, 233, 233);
+  border-radius: 0.6rem;
+  width: 8vw;
+  padding: 1rem;
+  box-shadow: 4px 4px 30px rgb(8, 8, 8);
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+button:active {
+  transform: scale(0.8);
+}
